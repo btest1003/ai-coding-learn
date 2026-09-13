@@ -1,0 +1,18 @@
+{
+  "name": "AI Coding Learn",
+  "short_name": "AI Learn",
+  "description": "AIコーディングの基礎概念を1日5分で学ぶミニ学習PWA",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b1020",
+  "theme_color": "#111827",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
