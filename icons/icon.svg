@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="AI Coding Learn icon">
+  <rect width="512" height="512" rx="112" fill="#0b1020"/>
+  <rect x="64" y="64" width="384" height="384" rx="88" fill="#121a2d" stroke="#6ea8ff" stroke-width="12"/>
+  <path d="M142 320 214 192h28l72 128h-40l-14-28h-66l-14 28h-38Zm68-62h34l-17-36-17 36Z" fill="#f4f7fb"/>
+  <path d="M329 190h42v132h-42z" fill="#6ea8ff"/>
+</svg>
